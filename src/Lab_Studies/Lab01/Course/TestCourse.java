@@ -1,6 +1,4 @@
-package Lab_Studies.Lab1.Course;
-
-import Lab_Studies.Lab1.Course.Course;
+package Lab_Studies.Lab01.Course;
 
 public class TestCourse {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Lab_Studies.Lab1.StackOfIntegers;
+package Lab_Studies.Lab01.StackOfIntegers;
 
 public class StackOfIntegers {
     private int[] elements;

@@ -1,4 +1,4 @@
-package Lab_Studies.Lab1.StackOfIntegers;
+package Lab_Studies.Lab01.StackOfIntegers;
 
 public class TestStackOfIntegers {
     public static void main(String[] args) {

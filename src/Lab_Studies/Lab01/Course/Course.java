@@ -1,4 +1,4 @@
-package Lab_Studies.Lab1.Course;
+package Lab_Studies.Lab01.Course;
 
 public class Course {
     private String courseName;
