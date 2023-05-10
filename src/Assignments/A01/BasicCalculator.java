@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.A01;
 
 public abstract class BasicCalculator {
 

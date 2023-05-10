@@ -1,4 +1,6 @@
-package Assignments;
+package Assignments.A01;
+
+import Assignments.A01.BasicCalculator;
 
 public class ScientificCalculator extends BasicCalculator {
 
